@@ -11,3 +11,4 @@ Factory images restore the device to factory defaults and erase all user setting
 OTA images update the operating system and ArkKVM application while preserving user settings and data.
 
 * arkkvm-system-image-ota-1.img (May 2026)
+* arkkvm-system-image-ota-081410.img (Aug 2026)
