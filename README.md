@@ -18,7 +18,7 @@ OTA images update the operating system and ArkKVM application while preserving u
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fixed an issue where text selection could drift when dragging after double-clicking to select text.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Fixed an issue introduced in the previous release where an incorrect subnet mask could be assigned in certain network environments, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;causing ArkKVM to become inaccessible.
+causing ArkKVM to become inaccessible.
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improvements
 
